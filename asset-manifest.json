@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vikassharma-3/Portfolio/static/css/main.e8901382.chunk.css",
+    "main.js": "/vikassharma-3/Portfolio/static/js/main.e23330d2.chunk.js",
+    "main.js.map": "/vikassharma-3/Portfolio/static/js/main.e23330d2.chunk.js.map",
+    "runtime-main.js": "/vikassharma-3/Portfolio/static/js/runtime-main.fb901fac.js",
+    "runtime-main.js.map": "/vikassharma-3/Portfolio/static/js/runtime-main.fb901fac.js.map",
+    "static/css/2.9c389199.chunk.css": "/vikassharma-3/Portfolio/static/css/2.9c389199.chunk.css",
+    "static/js/2.c2db5740.chunk.js": "/vikassharma-3/Portfolio/static/js/2.c2db5740.chunk.js",
+    "static/js/2.c2db5740.chunk.js.map": "/vikassharma-3/Portfolio/static/js/2.c2db5740.chunk.js.map",
+    "index.html": "/vikassharma-3/Portfolio/index.html",
+    "precache-manifest.70a61f7c1f8f69e27a716c7f6fa584d5.js": "/vikassharma-3/Portfolio/precache-manifest.70a61f7c1f8f69e27a716c7f6fa584d5.js",
+    "service-worker.js": "/vikassharma-3/Portfolio/service-worker.js",
+    "static/css/2.9c389199.chunk.css.map": "/vikassharma-3/Portfolio/static/css/2.9c389199.chunk.css.map",
+    "static/css/main.e8901382.chunk.css.map": "/vikassharma-3/Portfolio/static/css/main.e8901382.chunk.css.map",
+    "static/js/2.c2db5740.chunk.js.LICENSE.txt": "/vikassharma-3/Portfolio/static/js/2.c2db5740.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb901fac.js",
+    "static/css/2.9c389199.chunk.css",
+    "static/js/2.c2db5740.chunk.js",
+    "static/css/main.e8901382.chunk.css",
+    "static/js/main.e23330d2.chunk.js"
+  ]
+}

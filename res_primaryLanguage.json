@@ -1,0 +1,118 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Vikas Sharma, self-directed, quick learner and a ambitious undergraduate pursing a B.Tech in Computer Science and Engineering with specialisation in Cyber Security. Aiming forward to implement a practical knowledge and skills to fill the void in the given role.  Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "IBADS",
+        "startDate": "2022",
+        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Image Processing Pipeline",
+        "startDate": "2018",
+        "description": "Project was based on an web-app development which performs a image processing pipeline which involves image extraction , duplication , meta data extraction and storing data on the server with the team. More detailed information is available in project!!",
+        "images": [
+          "images/portfolio/imgprocessing/p2.jpeg",
+          "images/portfolio/imgprocessing/p1.jpeg"
+        ],
+        "url": "https://github.com/vikassharma-3/Image-Processing-Pipeline",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Bulk IP Reputation Checker",
+        "startDate": "2021",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com/vikassharma-3/iprep",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "IBM ISL",
+        "title": "SDE Intern",
+        "years": "1.2022 - present",
+        "mainTech": [
+          "Full Stack Development"
+        ],
+        "technologies": [
+          "REST API",
+          "Carbon",
+          "JavaScript",
+          "Bootstrap",
+          "Jest and Enzyme",
+          "Nightwatch",
+          "NodeJs",
+          "BASH",
+          "ReactJs"
+        ]
+      },
+      {
+        "company": "Gurugram Police",
+        "title": "Intern",
+        "years": "06.2021 - 07.2021",
+        "mainTech": [
+          "Cyber Security"
+        ],
+        "technologies": [
+          "RxJS",
+          "Django",
+          "PHP",
+          "JavaScript",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
